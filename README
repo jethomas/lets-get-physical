@@ -1,0 +1,7 @@
+Description from Mitch:
+
+k so build to have multiple applications and ease of programming of the application. there construction is based on three sections the physics, graphics, and middle or main section. we develop the physics and graphics sections and anyone can use those to and simply include the librarys to make there own middle which is the "game" aspect of it. by using simplified functions in the phy/graph libraries you can create objects and have them modelled physically without consideration and choose what is visible for the user. the middle man can also create new type of objects such as rope or springs what are daughters or the main object class.  
+
+
+
+in terms of an actual game. we can make a game where you have an editor interface and you have a bunch of different objects you can use to build your inventions, then you can click a button and simulte your machine in the real world and play with it.. maybe you can have levels  were you have to complete certain tasks with your machine
