@@ -68,7 +68,7 @@ class object
         
         double Ks, Kk           // coefficents of friction.
         
-        public:
+    public:
 
         // ---| Section describing spacial properties of the object | ----
 
